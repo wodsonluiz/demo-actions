@@ -1,2 +1,2 @@
 # demo-actions
-Repository to examples for actions in giihub teste
+Repository to examples for actions in giihub
