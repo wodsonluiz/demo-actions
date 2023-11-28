@@ -1,0 +1,15 @@
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/bin/Debug/net8.0/Demo-Actions
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/bin/Debug/net8.0/Demo-Actions.deps.json
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/bin/Debug/net8.0/Demo-Actions.runtimeconfig.json
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/bin/Debug/net8.0/Demo-Actions.dll
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/bin/Debug/net8.0/Demo-Actions.pdb
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/obj/Debug/net8.0/Demo-Actions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/obj/Debug/net8.0/Demo-Actions.AssemblyInfoInputs.cache
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/obj/Debug/net8.0/Demo-Actions.AssemblyInfo.cs
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/obj/Debug/net8.0/Demo-Actions.csproj.CoreCompileInputs.cache
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/obj/Debug/net8.0/Demo-Actions.sourcelink.json
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/obj/Debug/net8.0/Demo-Actions.dll
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/obj/Debug/net8.0/refint/Demo-Actions.dll
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/obj/Debug/net8.0/Demo-Actions.pdb
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/obj/Debug/net8.0/Demo-Actions.genruntimeconfig.cache
+/Users/wodsoncorreia/Documents/fonts/demo-actions/src/Demo-Actions/obj/Debug/net8.0/ref/Demo-Actions.dll
