@@ -1,15 +1,11 @@
-name: Add approved label
-
-on:
-  push:
-    branches:
-      - main
-      - release/*
+name: Team approval workflow
+on: pull_request_review
 
 jobs:
   labelWhenApproved:
-  steps:
-    - name: Label apppoved pull requests
+   runs-on: ubuntu-latest
+   steps:
+    - name: Label approved pull requests
       uses: abinoda/label-when-approved-action@1.0.5
       env:
         APPROVALS: "1"
