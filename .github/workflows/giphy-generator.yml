@@ -14,8 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GIPHY Generator
-        id: giphy_generator
-        uses: iamhughes/giphy-generator@v1
+        uses: IAmHughes/giphy-generator@v1.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }} # This token is provided by Actions, you do not need to create your own token
           GIPHY_TOKEN: ${{ secrets.TOKEN_GIPHY }} # This token should be created on giphy.com: https://developers.giphy.com/dashboard/?create=true
