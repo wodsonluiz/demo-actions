@@ -14,3 +14,11 @@ jobs:
       - run: echo "The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "Your repository has been copied to the path ${{ github.workspace }} on the runner."
       - run: echo "The workflow is now ready to test your code on the runner."
+
+      - name: condional step when event name is pull request
+        if: ${{ github.event_name == 'pull_request'}}
+        run: echo "This event is pull request."
+
+      - name: List files in the repository
+        run:
+          ls ${{ github.workspace }}
