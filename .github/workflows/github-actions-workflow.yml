@@ -42,6 +42,6 @@ Example-Actions-Job:
     Secound-Job:
       name: The secound job running on another runner
       runs-on: ubuntu-latest
-      needs: Exploring GitHub Actions
+      needs: Example-Actions-Job
       steps:
         - run: echo "This job is now running on a ${{ runner.os }} server hosted by GitHub."
