@@ -22,3 +22,19 @@ jobs:
       - name: List files in the repository
         run:
           ls ${{ github.workspace }}
+
+      - name: Setup dotnet on runner
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '6.x'
+
+      - name: Display dotnet version
+        run: dotnet --version
+
+      - run: echo "The preinstall tools are located here on the runner ${{ runner.tool_cach }}"
+
+      - name: List files in tool cache
+        run: | 
+          ls ${{ runner.tool_cache }}
+
+      - run: echo "This jobs status is ${{ job.status }}"
